@@ -15,7 +15,7 @@ Im planning to make public the projects im working in.
 Fun facts:
 - I really like Markdown, documentation and notes are much clearer
 - I have a dog! 🐕
-- I really like fantasy
+- I really like fantasy books and shows
 - Hobbies: Voleyball, gaming, learning, reading, tabletop games
 <!--
 **CKO48/CKO48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
