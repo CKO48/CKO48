@@ -12,12 +12,12 @@ Currently working on some Go projects while learning Rust.
 I've worked on some university projects public, but there are some more personal ones in private, with a total of ~20 at this point.  
 Im planning to make public the projects im working in.
 
-Currentily working on: [TaskInventory](https://github.com/CKO48/TaskInventory)
+Currentily working on: [TaskInventory](https://github.com/CKO48/TaskInventory) - FIRST VERSION RELEASED 🍾:
 
 Fun facts:
 - I really like Markdown, documentation and notes are much clearer
 - I have a dog! 🐕
-- I love fantasy books and shows, my favourite one is The Odyssey 🔱
+- I love fantasy books and shows.
 - Hobbies: Voleyball, gaming, learning, reading, tabletop games
 <!--
 **CKO48/CKO48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
